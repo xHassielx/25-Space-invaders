@@ -13,21 +13,21 @@
 }
 
 .invader {
-	background-image: url("/img/invader.png");
+	background-image: url("../img/invader.png");
 	background-size: contain;
 }
 
 .shooter {
-	background-image: url("/img/player.png");
+	background-image: url("../img/player.png");
 	background-size: contain;
 }
 
 .laser {
-	background-image: url("/img/shoot.png");
+	background-image: url("../img/shoot.png");
 	background-size: contain;
 }
 
 .boom {
-	background-image: url("/img/boom.png");
+	background-image: url("../img/boom.png");
 	background-size: contain;
 }
